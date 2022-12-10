@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "person 1",
+        "age": 22,
+        "available": "yes"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.64913081155073,
+          4.067060919404383
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "person 2",
+        "age": 19,
+        "available": "no"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.5656743606634,
+          4.234921279866839
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "person 3",
+        "age": 48,
+        "available": "yes"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.63251778849047,
+          4.1389426708037576
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "person 4",
+        "age": 32,
+        "available": "yes"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.5592609579791,
+          4.113938808164008
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}
